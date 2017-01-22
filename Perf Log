@@ -1,0 +1,3 @@
+Log of Performance Updates:
+  1/22/17 - 100 hidden nodes, lr = 0.3, 1 epoch = ~91.3%
+  1/22/17 - 150 nodes, lr = 0.3, 1 epoch = ~93.4% 
