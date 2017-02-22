@@ -1,3 +1,25 @@
 Log of Performance Updates:
   1/22/17 - 100 hidden nodes, lr = 0.3, 1 epoch = ~91.3%
   1/22/17 - 150 nodes, lr = 0.3, 1 epoch = ~93.4% 
+  2/22/17 - 1 epoch with variable learning rate, 100 hidden nodes:
+            Learning Rate	  Performance
+            0.1	            94.83
+            0.2	            93.39
+            0.3	            90.71
+            0.4	            86.64
+            0.5	            85.62
+            0.6	            82.62
+            0.7	            79.16
+            0.8	            77.94
+  2/22/17 - 1 epoch with variable # of hidden nodes, lr = 0.1:
+            Hidden Nodes    Performance
+            20	            90.02
+            40	            92.53
+            60	            93.55
+            80	            93.96
+            100	            94.92
+            120	            95.15
+            140	            94.86
+            160	            95.31
+            180	            95.37
+            200	            95.23
